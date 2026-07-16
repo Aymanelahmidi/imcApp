@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Calcul IMC</string>
+
+    <!-- Labels -->
+    <string name="label_poids">Poids</string>
+    <string name="label_taille">Taille</string>
+
+    <!-- Unités -->
+    <string name="unite_poids">kg</string>
+    <string name="unite_taille">cm</string>
+
+    <!-- Hints -->
+    <string name="hint_poids">Entrez votre poids</string>
+    <string name="hint_taille">Entrez votre taille</string>
+
+    <!-- Bouton -->
+    <string name="btn_calculer">Calculer IMC</string>
+
+    <!-- Résultat -->
+    <string name="label_resultat">Votre IMC : </string>
+
+    <!-- Catégories -->
+    <string name="categorie_maigre">Maigreur</string>
+    <string name="categorie_normal">Normal</string>
+    <string name="categorie_surpoids">Surpoids</string>
+    <string name="categorie_obese">Obésité modérée</string>
+    <string name="categorie_tobese">Obésité sévère</string>
+
+    <!-- Erreur -->
+    <string name="erreur_champs_vides">Veuillez remplir tous les champs.</string>
+</resources>

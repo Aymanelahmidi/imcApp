@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd.exe /c \"dir C:\\\\Users\\\\ayman\\\\Desktop\\\\ENSET\\\\ 2>&1\")",
+      "Bash(cmd.exe /c \"dir \"\"C:\\\\Users\\\\ayman\\\\Desktop\\\\ENSET\\\\DEV MOBILE\"\" 2>&1\")",
+      "Bash(cmd.exe /c \"dir C:\\\\Users\\\\ayman\\\\Desktop\\\\ 2>&1\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Users\\\\ayman\\\\Desktop'' -ErrorAction SilentlyContinue | Select-Object Name\")",
+      "Bash(powershell.exe -Command \"Get-ChildItem ''C:\\\\Users\\\\ayman\\\\Desktop\\\\ENSET'' -ErrorAction SilentlyContinue | Select-Object Name\")",
+      "Bash(powershell.exe -Command:*)"
+    ]
+  }
+}
